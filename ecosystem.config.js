@@ -1,8 +1,8 @@
 module.exports = {
   apps: [{
     name: 'bitcoin-cash',
-    script: '/home/YOURPATH/bitcoin-cash/bin/bitcoind',
-    args: '-datadir=/home/YOURPATH/bitcoin-cash/data -daemon=0',
+    script: '/home/YOURPATH/bch-ckpool/bin/bitcoind',
+    args: '-datadir=/home/YOURPATH/bch-ckpool/data -daemon=0',
     interpreter: 'none',
     autorestart: true,
     log_type: 'json'
