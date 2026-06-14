@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/ckpool_bch_ckstats.jpg" width="700" alt="CKPool-DigiByte Stack">
+</p>
+
+
 Bitcoin Cash Node
 =================
 
